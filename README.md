@@ -1,5 +1,3 @@
-# LHL-Midterm-Project-Data-Science
-
 # Title: Impact of Physical Attributes on 3-Point Shooting in the NBA's Latest Season
 
 
